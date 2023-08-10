@@ -30,6 +30,7 @@ main .hero picture {
   object-fit: cover;
   box-sizing: border-box;
   height: 100vh;
+  max-height: 700px;
 }
 
 main .hero img {
