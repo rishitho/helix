@@ -31,3 +31,11 @@
     order: unset;
   }
 }
+
+/*custom css*/
+.columns.footer-menu > div {
+  align-items: flex-start;
+  flex-direction: unset;
+  gap: 32px;
+}
+
